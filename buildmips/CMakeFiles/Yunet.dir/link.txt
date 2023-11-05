@@ -1,0 +1,1 @@
+/home/vuong/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-g++  -std=c++11 -lm -pthread -rdynamic CMakeFiles/Yunet.dir/main.cpp.o -o Yunet  ../lib/libncnn.a 

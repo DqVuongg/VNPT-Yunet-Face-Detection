@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -lpthread -lm -rdynamic CMakeFiles/Yunet.dir/main.cpp.o -o Yunet  ../libtest/libncnn.a 

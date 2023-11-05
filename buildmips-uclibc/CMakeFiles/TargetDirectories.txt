@@ -1,0 +1,3 @@
+/home/vuong/Yunet/buildmips-uclibc/CMakeFiles/Yunet.dir
+/home/vuong/Yunet/buildmips-uclibc/CMakeFiles/edit_cache.dir
+/home/vuong/Yunet/buildmips-uclibc/CMakeFiles/rebuild_cache.dir
